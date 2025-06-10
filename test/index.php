@@ -1,5 +1,5 @@
 <?php include 'db.php'; ?>
-<h2 <a href="index.php"</a> >Danh sách khách hàng</h2>
+<h2><a href="index.php">Danh sách khách hàng</a></h2>
 <a href="create.php">Thêm mới</a>
 
 <form method="get" action="">
